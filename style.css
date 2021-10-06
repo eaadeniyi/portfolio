@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Welcome{
+    background-image:url("[Downloader.la]-615c5fa9c357e.jpg");
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 400px;
+    color: rgb(12, 8, 53);
+    padding: 15px;
+
+}
+.Home h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin: 30px;
+}
+.Home p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 30px;
+}
+.Navbar{
+    background-color: rgb(246, 246, 246);
+    padding: 10px;
+    margin: 30px;
+    
+}
+.Navbar a{
+    padding: 15px;
+    margin: 10px;
+    text-decoration: none;
+    color: rgb(12, 8, 53);
+}
+.Navbar a:link{
+    text-decoration: none;
+}
+
+.About{
+    background-image: url("615d9313d48f7.jpg");
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 400px;
+    color:rgb(16, 8, 34);
+    padding: 15px;
+}
+
+.About h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin:0px;
+    padding: 20px;
+}
+.About p{
+    padding: 12px;
+}
+
+.Portfolio{
+    background-image: url("615d936070997.jpg");
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 400px;
+    color:rgb(16, 8, 34);
+    padding: 15px;
+}
+.Portfolio h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin:0px;
+    padding: 20px;
+}
+.Portfolio h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding:20px;
+}
+.Portfolio p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    padding: 12px;
+}
+.Contact{
+    background-image: url("[Downloader.la]-615d8f930d664.jpg");
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 110px;
+    color:rgb(243, 243, 243);
+    padding: 15px;
+    text-align: center;
+}
+.Contact h2{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+.Contact button{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    background-color:rgb(46, 75, 139);
+    color:azure;
+}
