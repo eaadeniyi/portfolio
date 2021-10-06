@@ -4,7 +4,7 @@
 }
 
 .Welcome{
-    background-image:url("615db7875760e.jpg");
+    background-image:url("/images/615db7875760e.jpg");
     background-size: cover;
     position: relative;
     width: 100%;
@@ -40,7 +40,7 @@
 }
 
 .About{
-    background-image: url("615d9313d48f7.jpg");
+    background-image: url("/images/615d9313d48f7.jpg");
     background-size: cover;
     position: relative;
     width: 100%;
@@ -60,7 +60,7 @@
 }
 
 .Portfolio{
-    background-image: url("615d936070997.jpg");
+    background-image: url("/images/615d936070997.jpg");
     background-size: cover;
     position: relative;
     width: 100%;
@@ -85,7 +85,7 @@
     padding: 12px;
 }
 .Contact{
-    background-image: url("[Downloader.la]-615d8f930d664.jpg");
+    background-image:url("/images/[Downloader.la]-615d8f930d664.jpg");
     background-size: cover;
     position: relative;
     width: 100%;
